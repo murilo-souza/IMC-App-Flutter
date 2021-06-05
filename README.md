@@ -1,5 +1,5 @@
 # IMC
- Aplicativo para calcular o IMC, feito em Flutter
+ Aplicativo para calcular o Indice de Massa Corporal
 
 # Tecnologia
 * [Flutter](https://flutter.dev/?gclid=CjwKCAiAgc-ABhA7EiwAjev-jycitPrPlfK05OttRV0aZRDd4n_TNxhfP4pkYVhR-myKnkl3W_77YhoCu2gQAvD_BwE&gclsrc=aw.ds)
